@@ -1,6 +1,6 @@
 iqa_eval is a tool for evaluating interactive question answering, given the results file from Mechanical Turk. 
 
-Usage: python eval.py input.csv time eval_row
+Usage: python eval.py input.csv time eval_row\n
 Assume that you cloned iqa_eval and now are in the directory that contains this README, to run the example input file would be something like: 
 python eval.py “Batch_2565336_batch_results.csv” 60 53 
 
